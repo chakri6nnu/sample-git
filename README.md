@@ -31,4 +31,7 @@ laravel-time-tracker/
 * [Angular Bootstrap 1.3.*](https://angular-ui.github.io/bootstrap/)
 * [Angular Resource 1.5.*](https://docs.angularjs.org/api/ngResource)
 * [Bootstrap 4.*](http://getbootstrap.com/)
-* [Moment.js 2.13.*](http://momentj
+* [Moment.js 2.13.*](http://momentjs.com/docs/)
+
+### 4. License
+[MIT license](https://github.com/jeremykenedy/laravel-time-tracker/blob/master/LICENSE) included
